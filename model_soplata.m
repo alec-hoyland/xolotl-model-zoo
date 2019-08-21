@@ -10,3 +10,5 @@ x.comp.add('soplata/Kd', 'gbar', 200);
 x.comp.add('soplata/MCurrent', 'gbar', 7.5);
 x.comp.add('soplata/NaV', 'gbar', 2000);
 x.comp.add('Leak', 'gbar', 0.1);
+
+x.I_ext = 0.2;
